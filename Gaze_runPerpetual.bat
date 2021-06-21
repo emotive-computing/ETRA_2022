@@ -1,0 +1,1 @@
+start bin\Debug\GazeTracking4C.exe

@@ -1,0 +1,56 @@
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\emotivecomputingnd-clm-launcher-828afeca1adc\bin\Debug\FaceLauncher.exe.config
+C:\Users\astewa12\Dropbox (Emotive Computing)\Source\clm-launcher\bin\Debug\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-launcher\bin\Debug\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\bin\Debug\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\obj\Debug\FaceLauncher.csprojResolveAssemblyReference.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\obj\Debug\FaceLauncher.Main.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\obj\Debug\FaceLauncher.Properties.Resources.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\obj\Debug\FaceLauncher.csproj.GenerateResource.Cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\bin\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\bin\Debug\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\obj\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\obj\Debug\FaceLauncher.pdb
+C:\Projects\clm-server-post\bin\Debug\FaceLauncher.exe.config
+C:\Projects\clm-server-post\obj\Debug\FaceLauncher.exe
+C:\Projects\clm-server-post\obj\Debug\FaceLauncher.pdb
+C:\Projects\clm-server-post\bin\Debug\FaceLauncher.exe
+C:\Projects\clm-server-post\bin\Debug\FaceLauncher.pdb
+C:\Projects\clm-server-post\bin\Debug\Utilities.pdb
+C:\Projects\clm-server-post\obj\Debug\FaceLauncher.csprojResolveAssemblyReference.cache
+C:\Projects\clm-server-post\obj\Debug\FaceLauncher.Main.resources
+C:\Projects\clm-server-post\obj\Debug\FaceLauncher.Properties.Resources.resources
+C:\Projects\clm-server-post\obj\Debug\FaceLauncher.csproj.GenerateResource.Cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\bin\Debug\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\obj\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\obj\Debug\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\bin\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\bin\Debug\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\obj\Debug\FaceLauncher.csprojResolveAssemblyReference.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\obj\Debug\FaceLauncher.Main.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\obj\Debug\FaceLauncher.Properties.Resources.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post-lab\obj\Debug\FaceLauncher.csproj.GenerateResource.Cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\bin\Debug\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\obj\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\obj\Debug\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\bin\Debug\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\bin\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\bin\Debug\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.Main.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.Properties.Resources.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.csproj.GenerateResource.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.csproj.CoreCompileInputs.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.csproj.CopyComplete
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\clm-server-post\source\obj\Debug\FaceLauncher.csprojAssemblyReference.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Debug\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Debug\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.csprojAssemblyReference.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.Main.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.Properties.Resources.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.csproj.GenerateResource.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.csproj.CoreCompileInputs.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.csproj.CopyComplete
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Debug\FaceLauncher.pdb

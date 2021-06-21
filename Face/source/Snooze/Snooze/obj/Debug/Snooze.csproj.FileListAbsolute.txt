@@ -1,0 +1,12 @@
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\Snooze\Snooze\bin\Debug\Snooze.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\Snooze\Snooze\bin\Debug\Snooze.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\Snooze\Snooze\bin\Debug\Snooze.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\Snooze\Snooze\obj\Debug\Snooze.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\Snooze\Snooze\obj\Debug\Snooze.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\Snooze\Snooze\obj\Debug\Snooze.csprojResolveAssemblyReference.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\Snooze\Snooze\bin\Debug\Snooze.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\Snooze\Snooze\obj\Debug\Snooze.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\Snooze\Snooze\obj\Debug\Snooze.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\Snooze\Snooze\bin\Debug\Snooze.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\Snooze\Snooze\bin\Debug\Snooze.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\clm-server-post\source\Snooze\Snooze\obj\Debug\Snooze.csprojResolveAssemblyReference.cache

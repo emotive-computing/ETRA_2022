@@ -1,0 +1,13 @@
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Release\FaceLauncher.exe.config
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Release\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Release\FaceLauncher.pdb
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Release\OpenCvSharp.dll
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\bin\Release\Utilities.dll
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.csprojAssemblyReference.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.Main.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.Properties.Resources.resources
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.csproj.GenerateResource.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.csproj.CoreCompileInputs.cache
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.csproj.CopyComplete
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.exe
+C:\Users\anst1775\Dropbox (Emotive Computing)\Source\iarpa\Face_Gaze_Perpetual\PackageHeadless\Face\source\obj\Release\FaceLauncher.pdb

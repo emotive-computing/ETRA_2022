@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceLauncher", "FaceLauncher.csproj", "{4127E661-1049-4421-A835-0FE139289CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4127E661-1049-4421-A835-0FE139289CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4127E661-1049-4421-A835-0FE139289CBC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {473FD5F3-3799-4CA1-9FBF-76224693B044}
+	EndGlobalSection
+EndGlobal
